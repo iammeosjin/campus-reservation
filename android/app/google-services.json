@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "557023075869",
+    "project_id": "test-firbase-6b9d3",
+    "storage_bucket": "test-firbase-6b9d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557023075869:android:61682e5ee5811a5397f0f4",
+        "android_client_info": {
+          "package_name": "com.example.ubook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdbndFkw1_MOe0HRGeCqkOM3-lrD5mnLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
